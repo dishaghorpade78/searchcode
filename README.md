@@ -1,5 +1,6 @@
 # searchcode
 Searches text RTS Labs utilizing Selenium Webdriver - Java
+This code is executed in the MAC OS Environment (Chrome Browser Version 90.0.4430.93)
 Below libraries/exe would be needed to be downloaded for the program to run.
 chromedriver.exe
 byte-buddy-1.8.15.jar
